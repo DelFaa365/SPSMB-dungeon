@@ -9,7 +9,7 @@
   position: absolute;
   font-size:100px;
 }
-
+* {user-select:none;}
 body,
 html {
   height: 100%;
