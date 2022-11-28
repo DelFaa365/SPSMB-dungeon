@@ -8,6 +8,7 @@ top: 45%;
 background-repeat:no-repeat;
 position:absolute;
 }
+* {user-select:none;}
 #arrowleft {
   background-image: url("/dungeon/img/arrowleft.png");
 height:200px;
