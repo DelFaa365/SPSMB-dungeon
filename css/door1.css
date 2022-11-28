@@ -4,6 +4,7 @@ html {
   margin: 0;
   user-select:none;
 }
+* {user-select:none;}
 #background {
   background-image: url("/dungeon/img/door1.jpg");
   background-repeat: no-repeat;
