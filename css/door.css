@@ -3,6 +3,7 @@ html {
   height: 100%;
   margin: 0;
 }
+* {user-select:none;}
 #background {
   background-image: url("/dungeon/img/doorclosed.jpg");
   background-repeat: no-repeat;
