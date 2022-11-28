@@ -16,7 +16,7 @@ html {
   -1px 1px 0 white,
   1px 1px 0 white;
 }
-
+* {user-select:none;}
 #enemy {
     background-image: url("/dungeon/img/vojtahonza.png");
     height: 100%;
