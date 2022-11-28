@@ -9,6 +9,7 @@ background-repeat:no-repeat;
 position:absolute;
 
 }
+* {user-select:none;}
 body,
 html {
   height: 100%;
