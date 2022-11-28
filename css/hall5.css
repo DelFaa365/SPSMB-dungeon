@@ -27,7 +27,7 @@ background-repeat:no-repeat;
 position:absolute;
 
 }
-
+* {user-select:none;}
 #arrowdown {
     background-image: url("/dungeon/img/arrowodwn.png");
 height:200px;
