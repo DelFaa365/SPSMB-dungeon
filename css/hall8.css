@@ -1,5 +1,5 @@
 #arrowup {
-    background-image: url("/dungeon/img/arrowup.png");
+    background-image: url("/img/arrowup.png");
 height:200px;
 width:200px;
 background-size:100px;
@@ -10,7 +10,7 @@ position:absolute;
 }
 * {user-select:none;}
 #arrowright {
-    background-image: url("/dungeon/img/arrowright.png");
+    background-image: url("/img/arrowright.png");
 height:200px;
 width:200px;
 background-size:100px;
@@ -20,7 +20,7 @@ background-repeat:no-repeat;
 position:absolute;
 }
 #arrowdown {
-  background-image: url("/dungeon/img/arrowodwn.png");
+  background-image: url("/img/arrowodwn.png");
 height:200px;
 width:200px;
 background-size:100px;
@@ -35,7 +35,7 @@ html {
   margin: 0;
 }
 #background {
-  background-image: url("/dungeon/img/hall8.jpg");
+  background-image: url("/img/hall8.jpg");
   background-repeat: no-repeat;
   background-size:cover;
   background-position: bottom;

@@ -6,7 +6,7 @@ html {
 }
 * {user-select:none;}
 #background {
-  background-image: url("/dungeon/img/door1.jpg");
+  background-image: url("/img/door1.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: bottom;
@@ -19,7 +19,7 @@ html {
   1px 1px 0 white;
 }
 #arrowdown {
-    background-image: url("/dungeon/img/arrowodwn.png");
+    background-image: url("/img/arrowodwn.png");
 height:200px;
 width:200px;
 background-size:200px;

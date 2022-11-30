@@ -5,7 +5,7 @@ html {
   margin: 0;
 }
 #background {
-  background-image: url("/dungeon/img/room3.jpg");
+  background-image: url("/img/room3.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: bottom;
@@ -19,7 +19,7 @@ html {
 }
 * {user-select:none;}
 #enemy {  
-  background-image: url("/dungeon/img/fanda.png");
+  background-image: url("/img/fanda.png");
   height: 100%;
   width: 100%;
   position: absolute;
@@ -36,7 +36,7 @@ html {
 }
 
 #player {
-  background-image: url("/dungeon/img/kratos.png");
+  background-image: url("/img/kratos.png");
   height: 100%;
   width: 100%;
   position: absolute;
@@ -64,7 +64,7 @@ html {
 }
 
 #attack {
-  background-image: url("/dungeon/img/blades.jpg");
+  background-image: url("/img/blades.jpg");
   height: 100%;
   width: 100%;
   position: absolute;
@@ -75,7 +75,7 @@ html {
   font-size: 50px;
 }
 #arrowright {
-  background-image: url("/dungeon/img/arrowright.png");
+  background-image: url("/img/arrowright.png");
   height: 200px;
   width: 200px;
   background-size: 200px;

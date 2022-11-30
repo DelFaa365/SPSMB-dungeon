@@ -1,5 +1,5 @@
 #arrowdown {
-    background-image: url("/dungeon/img/arrowodwn.png");
+    background-image: url("/img/arrowodwn.png");
 height:200px;
 width:200px;
 background-size:200px;
@@ -17,7 +17,7 @@ html {
   user-select:none;
 }
 #background {
-  background-image: url("/dungeon/img/bathroom2.jpg");
+  background-image: url("/img/bathroom2.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: bottom;
@@ -45,7 +45,7 @@ top:5%;
 
 #key2 {
 
-    background-image:url("/dungeon/img/key.png");
+    background-image:url("/img/key.png");
     position:absolute;
 width:500px;
 height:500px;

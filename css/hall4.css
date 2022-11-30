@@ -4,7 +4,7 @@ html {
   margin: 0;
 }
 #background {
-  background-image: url("/dungeon/img/hall4.jpg");
+  background-image: url("/img/hall4.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: bottom;
@@ -18,7 +18,7 @@ html {
 }
 * {user-select:none;}
 #arrowright {
-    background-image: url("/dungeon/img/arrowright.png");
+    background-image: url("/img/arrowright.png");
     height: 200px;
     width: 200px;
     background-size: 200px;
@@ -30,7 +30,7 @@ html {
   }
 
   #arrowleft {
-    background-image: url("/dungeon/img/arrowleft.png");
+    background-image: url("/img/arrowleft.png");
     height: 200px;
     width: 200px;
     background-size: 200px;
@@ -41,7 +41,7 @@ html {
     font-size:100px;
   }
   #arrowdown {
-    background-image: url("/dungeon/img/arrowodwn.png");
+    background-image: url("/img/arrowodwn.png");
 height:200px;
 width:200px;
 background-size:200px;

@@ -5,7 +5,7 @@ html {
   margin: 0;
 }
 #background {
-  background-image: url("/dungeon/img/kiosek1.jpg");
+  background-image: url("/img/kiosek1.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: bottom;
@@ -25,7 +25,7 @@ html {
 #playerluck {display:none}
 
 #player {
-  background-image: url("/dungeon/img/kratos.png");
+  background-image: url("/img/kratos.png");
   height: 650px;
   width: 450px;
   background-repeat: no-repeat;
@@ -35,7 +35,7 @@ html {
   background-size: 450px;
 }
 #explore {
-  background-image: url("/dungeon/img/sign.png");
+  background-image: url("/img/sign.png");
   font-size: 50px;
   width: 300px;
   height: 300px;
@@ -52,7 +52,7 @@ a {
 }
 
 #hat1 {
-  background-image: url("/dungeon/img/helmet1.png");
+  background-image: url("/img/helmet1.png");
   background-repeat: no-repeat;
   background-size: 150px;
   width: 150px;
@@ -61,7 +61,7 @@ a {
   display: inline-block;
 }
 #weapon1 {
-  background-image: url("/dungeon/img/sword1.png");
+  background-image: url("/img/sword1.png");
   background-repeat: no-repeat;
   background-size: 150px;
   width: 150px;
@@ -70,7 +70,7 @@ a {
   display: inline-block;
 }
 #hat2 {
-  background-image: url("/dungeon/img/helmet2.png");
+  background-image: url("/img/helmet2.png");
   background-repeat: no-repeat;
   background-size: 150px;
   width: 150px;
@@ -79,7 +79,7 @@ a {
   display: inline-block;
 }
 #weapon2 {
-  background-image: url("/dungeon/img/sword2.png");
+  background-image: url("/img/sword2.png");
   background-repeat: no-repeat;
   background-size: 150px;
   width: 150px;
@@ -88,7 +88,7 @@ a {
   display: inline-block;
 }
 #hat3 {
-  background-image: url("/dungeon/img/helmet3.png");
+  background-image: url("/img/helmet3.png");
   background-repeat: no-repeat;
   background-size: 150px;
   width: 150px;
@@ -97,7 +97,7 @@ a {
   display: inline-block;
 }
 #weapon3 {
-  background-image: url("/dungeon/img/sword3.png");
+  background-image: url("/img/sword3.png");
   background-repeat: no-repeat;
   background-size: 150px;
   width: 150px;
@@ -106,7 +106,7 @@ a {
   display: inline-block;
 }
 #hat4 {
-  background-image: url("/dungeon/img/helmet4.png");
+  background-image: url("/img/helmet4.png");
   background-repeat: no-repeat;
   background-size: 150px;
   width: 150px;
@@ -115,7 +115,7 @@ a {
   display: inline-block;
 }
 #weapon4 {
-  background-image: url("/dungeon/img/sword4.png");
+  background-image: url("/img/sword4.png");
   background-repeat: no-repeat;
   background-size: 150px;
   width: 150px;
@@ -124,7 +124,7 @@ a {
   display: inline-block;
 }
 #hat5 {
-  background-image: url("/dungeon/img/helmet5.png");
+  background-image: url("/img/helmet5.png");
   background-repeat: no-repeat;
   background-size: 150px;
   width: 150px;
@@ -133,7 +133,7 @@ a {
   display: inline-block;
 }
 #weapon5 {
-  background-image: url("/dungeon/img/sword5.png");
+  background-image: url("/img/sword5.png");
   background-repeat: no-repeat;
   background-size: 150px;
   width: 150px;
@@ -142,7 +142,7 @@ a {
   display: inline-block;
 }
 #hat6 {
-  background-image: url("/dungeon/img/helmet6.png");
+  background-image: url("/img/helmet6.png");
   background-repeat: no-repeat;
   background-size: 150px;
   width: 150px;
@@ -151,7 +151,7 @@ a {
   display: inline-block;
 }
 #weapon6 {
-  background-image: url("/dungeon/img/sword6.png");
+  background-image: url("/img/sword6.png");
   background-repeat: no-repeat;
   background-size: 150px;
   width: 150px;
@@ -160,7 +160,7 @@ a {
   display: inline-block;
 }
 #weapon7 {
-  background-image: url("/dungeon/img/sword7.png");
+  background-image: url("/img/sword7.png");
   background-repeat: no-repeat;
   background-size: 150px;
   width: 150px;
@@ -169,7 +169,7 @@ a {
   display: inline-block;
 }
 #weapon8 {
-  background-image: url("/dungeon/img/sword8.png");
+  background-image: url("/img/sword8.png");
   background-repeat: no-repeat;
   background-size: 150px;
   width: 150px;

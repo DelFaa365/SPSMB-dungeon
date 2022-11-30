@@ -5,7 +5,7 @@ html {
 }
 * {user-select:none;}
 #background {
-  background-image: url("/dungeon/img/kiosek2.jpg");
+  background-image: url("/img/kiosek2.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: bottom;
@@ -18,7 +18,7 @@ html {
   1px 1px 0 white;
 }
 #arrowright {
-    background-image: url("/dungeon/img/arrowright.png");
+    background-image: url("/img/arrowright.png");
 height:200px;
 width:200px;
 background-size:200px;
@@ -28,7 +28,7 @@ background-repeat:no-repeat;
 position:absolute;
 }
 #arrowleft {
-  background-image: url("/dungeon/img/arrowleft.png");
+  background-image: url("/img/arrowleft.png");
 height:200px;
 width:200px;
 background-size:200px;
@@ -38,7 +38,7 @@ background-repeat:no-repeat;
 position:absolute;
 }
 #arrowup {
-    background-image: url("/dungeon/img/arrowup.png");
+    background-image: url("/img/arrowup.png");
 height:200px;
 width:200px;
 background-size:200px;
@@ -48,7 +48,7 @@ background-repeat:no-repeat;
 position:absolute;
 }
 #arrowdown {
-    background-image: url("/dungeon/img/arrowodwn.png");
+    background-image: url("/img/arrowodwn.png");
 height:200px;
 width:200px;
 background-size:200px;
